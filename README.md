@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m working on improving my skills and learning new tech stacks.<br>🌱 I’m currently learning a new server-side framework.<br><br><br>💭 "Knowing is not enough; we must apply." — Johann Wolfgang von Goethe
+🔭 I’m working on improving my skills and learning new tech stacks.
+
+💭 "Knowing is not enough; we must apply." — Johann Wolfgang von Goethe
 
 
 ## 🌐 Socials:
